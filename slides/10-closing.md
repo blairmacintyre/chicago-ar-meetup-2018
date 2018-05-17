@@ -29,5 +29,5 @@ and <a href="https://twitter.com/blairmacintyre">@blairmacintyre</a></p>
     <li>iOS app source at http://github.com/mozilla/webxr-ios</li>
 </ul>
 
-<p>This talk available at <a href="https://blairmacintyre.github.io/chicago-ar-meetup-2018">https://blairmacintyre.github.io/chicago-ar-meetup-2018</a></p>
+<p>This talk available at <a href="https://github.blairmacintyre.me/chicago-ar-meetup-2018">https://github.blairmacintyre.me/chicago-ar-meetup-2018</a></p>
 
