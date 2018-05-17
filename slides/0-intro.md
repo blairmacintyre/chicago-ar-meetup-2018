@@ -8,6 +8,7 @@
 		Principal Research Scientist, Mozilla <br>
 		Professor, School of Interactive Computing, Georgia Tech<br>
 		@blairmacintyre / bmacintyre@mozilla.com / blair@cc.gatech.edu <br>
+		<br>https://mixedreality.mozilla.org
     </p>
 </div>
 

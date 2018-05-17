@@ -18,7 +18,7 @@
 
 <!-- .slide: data-background="resources/textures/background-radial.jpeg" style="text-align: left;" -->
 
-<h2>AR + VR + Web!</h2>
+<h2>AR + VR + Web == mixedreality.mozilla.org</h2>
 <p>Contact: <a href="mailto:bmacintyre@mozilla.com">bmacintyre@mozilla.com</a> / <a href="mailto:blair@gatech.edu">blair@gatech.edu</a> 
 and <a href="https://twitter.com/blairmacintyre">@blairmacintyre</a></p>
 <br>
